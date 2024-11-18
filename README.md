@@ -4,7 +4,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="bottom" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **技术栈:**
 
